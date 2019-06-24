@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.peterxia.com/categories/</loc>
+    <loc>https://www.peterxia.com/</loc>
+    <lastmod>2019-06-23T22:23:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.peterxia.com/</loc>
+    <loc>https://www.peterxia.com/posts/</loc>
+    <lastmod>2019-06-23T22:23:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.peterxia.com/posts/readme/</loc>
+    <lastmod>2019-06-23T22:23:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.peterxia.com/categories/</loc>
     <priority>0</priority>
   </url>
   

@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Peter Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jun 2018 22:23:26 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 22:23:26 -0700</lastBuildDate>
     
 	<atom:link href="https://www.peterxia.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>readme</title>
       <link>https://www.peterxia.com/posts/readme/</link>
-      <pubDate>Tue, 05 Jun 2018 22:23:26 -0700</pubDate>
+      <pubDate>Sun, 23 Jun 2019 22:23:26 -0700</pubDate>
       
       <guid>https://www.peterxia.com/posts/readme/</guid>
-      <description>Github Pages supporting HTTPS certificates this year prompts me to get this personal blog ready (barely) after owning the domain for over 4 years. This site is statically generated with hugo, using the default anake theme. The theme hasn&amp;rsquo;t been modified at all because I&amp;rsquo;m bad at doing webpage layout. I believe a blog is about its content and the styling doesn&amp;rsquo;t matter. However, I would tweak the style a little bit until the website does not look too low-effort.</description>
+      <description>I&amp;rsquo;m a software engineer working at Google who doesn&amp;rsquo;t take himself very seriously.</description>
     </item>
     
   </channel>
