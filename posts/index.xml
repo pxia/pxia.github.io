@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Peter Xia</title>
-    <link>http://www.peterxia.com/posts/</link>
+    <link>https://www.peterxia.com/posts/</link>
     <description>Recent content in Posts on Peter Xia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Jun 2018 22:23:26 -0700</lastBuildDate>
     
-	<atom:link href="http://www.peterxia.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.peterxia.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>readme</title>
-      <link>http://www.peterxia.com/posts/readme/</link>
+      <link>https://www.peterxia.com/posts/readme/</link>
       <pubDate>Tue, 05 Jun 2018 22:23:26 -0700</pubDate>
       
-      <guid>http://www.peterxia.com/posts/readme/</guid>
+      <guid>https://www.peterxia.com/posts/readme/</guid>
       <description>Github Pages supporting HTTPS certificates this year prompts me to get this personal blog ready (barely) after owning the domain for over 4 years. This site is statically generated with hugo, using the default anake theme. The theme hasn&amp;rsquo;t been modified at all because I&amp;rsquo;m bad at doing webpage layout. I believe a blog is about its content and the styling doesn&amp;rsquo;t matter. However, I would tweak the style a little bit until the website does not look too low-effort.</description>
     </item>
     
